@@ -1,3 +1,4 @@
+[
 # The World Today — 23 November 2026 in one image
 
 Entry for the make.fun bounty **"Sum up 23 November's world news in one image"**
